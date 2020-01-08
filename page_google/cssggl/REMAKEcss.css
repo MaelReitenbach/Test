@@ -1,0 +1,167 @@
+body{
+	font-family: arial;
+}
+
+.coco{
+	position: relative;
+	font-weight: bold;
+	color: #fff;
+	background-color: rgb(66, 133, 244);
+	border: 1px solid #4285f4 ;
+	border-radius: 2px;
+	height: 30px;
+	width: 96px;
+	line-height: 28px;
+	padding-top: 0px; 
+	padding-bottom:0px;
+	padding-right: 10px; 
+	padding-left: 10px;
+	width: 94px
+	margin-top: 200px;
+	margin-bottom: auto;
+	margin-right: auto;
+	margin-left: 1380px;
+}
+
+.coco:hover{
+	box-shadow: 1px 1px 1px blue; 
+	opacity: 0.93;
+}
+
+.app{
+	position: relative;
+	width: 30px;
+	margin-top: -28px;
+	margin-bottom: auto;
+	margin-right: 50px;
+	margin-left: 1335px;
+	opacity: 0.8
+}
+
+.app:hover{
+	opacity: 1
+}
+
+.img{
+	font-size: 14px;
+	opacity: 0.8;
+	position: relative;
+	width: 43;
+	left: 1230px;
+	top: -25px;
+}
+
+.img:hover{
+	opacity: 1;
+	text-decoration: underline;
+}
+
+.gmail{
+	font-size: 14px;
+	opacity: 0.8;
+	position: relative;
+	width: 50;
+	left: 1220px;
+	top: -25px;
+}
+
+.gmail:hover{
+	opacity: 1;
+	text-decoration: underline;
+}
+
+.logo{
+	min-width: 100px;
+	width: 275px;
+	margin-bottom: : 20px;
+	margin-top: 100px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.search{
+	display: flex;
+	position: relative;
+	top: 20px;
+	width: 700px;
+	height: 30px;
+	right :0px;
+	left : 0px;
+	margin: auto;
+	left: 30px;
+
+}
+
+
+.bar{
+	width: 580px;
+	height: 30px;
+	position: relative;
+	left: 0px;
+	right: 100px;
+	flex-direction: column;
+	border-radius: 55px;
+	border-style: solid #222;
+	border-width: 2px;
+	padding-top: 5px; 
+	padding-bottom: 5px;
+	padding-right: 10px;
+	padding-left: 35px; 
+	font-size: 18px;
+
+}
+
+.buttonspace{
+	width: 700px;
+	margin: auto;
+	height: 100px;
+
+}
+
+.BoutonR{
+	position: relative;
+	top: 60px;
+	font-size: 14px;
+	background-color:  #f2f2f2;
+	border-radius: 3px;
+	border-width: 1px;
+	border-style: solid;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 16px:;
+	padding-left: 16px;
+	color: #5F6368;
+	margin-right: 4px;
+}
+
+.BoutonR:hover{
+background-opacity: 0.8 ;
+border-width: : 2px;
+border-color: #5F6368;
+box-shadow: 2px 2px #f1f1f1;
+} 
+
+
+.BoutonC{
+	position: relative;
+	top: 60px;
+	font-size: 14px;
+	background-color:  #f2f2f2;
+	border-radius: 3px;
+	border-width: 1px;
+	border-style: solid;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 16px;
+	padding-left: 16px;
+	color: #5F6368;
+	margin-left: 4px;
+
+}
+
+.BoutonC:hover{
+	background-opacity: 0.8 ;
+	border-width: : 2px;
+	border-color: #5F6368;
+	box-shadow: 2px 2px #f1f1f1;
+}
